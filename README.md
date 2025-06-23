@@ -14,4 +14,3 @@ I'm passionate about clean code, backend development, and automation. I enjoy le
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-omarsaleh.net-1f425f?style=for-the-badge)](https://omarsaleh.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omarsaleh1)  
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-333?style=for-the-badge&logo=github)](https://github.com/omarsaleh1)
